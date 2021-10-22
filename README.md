@@ -24,7 +24,9 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VIKAS0264&show_icons=true&hide_border=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VIKAS0264&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br/>
 ![Profile views](https://gpvc.arturio.dev/VIKAS0264)  <img src="https://img.shields.io/github/followers/VIKAS0264?label=Follow" style=" float:left, margin-right:10px" />
+
 
 ---
 
